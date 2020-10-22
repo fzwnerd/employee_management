@@ -1,1 +1,2 @@
 Employee Management System built for client: TracFone Wireless Inc. 
+This project is web-based so that it can record the working hours, sick days, holidays and vacation hours of employees and prepare the invoice, keep the record of candidate resume submission, updating and approval, develop online tool for wealth management such as stock, retirement plan etc. The project can also compare budget with actual costs and measure employee performance. The goal of this project is to upgrade the old legacy system into a modern microservice system by using Java ecosystem. 
