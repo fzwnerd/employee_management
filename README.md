@@ -21,7 +21,7 @@ Employee: employee service. <br>
 1.Clone the source code.<br>
 2.Update the /src/main/resources/application.properties with your own DB URL/Password.<br>
 3.Update the port number if necesarry(by default it is 7070). <br>
-4.If you have MySQL installed, run the script /script/HR20170803.sql to create the tables.<br>
+4.If you have MySQL installed, run the script hr.sql to create the tables.<br>
 5.Run Application class.<br>
 <br>
 # Auth API
